@@ -1,0 +1,18 @@
+C:\Users\carlo\Desktop\TRABAJO\TRABAJO_CRUDF\EstudiantesBOL\bin\Debug\EstudiantesBOL.dll
+C:\Users\carlo\Desktop\TRABAJO\TRABAJO_CRUDF\EstudiantesBOL\bin\Debug\EstudiantesBOL.pdb
+C:\Users\carlo\Desktop\TRABAJO\TRABAJO_CRUDF\EstudiantesBOL\obj\Debug\EstudiantesBOL.csproj.AssemblyReference.cache
+C:\Users\carlo\Desktop\TRABAJO\TRABAJO_CRUDF\EstudiantesBOL\obj\Debug\EstudiantesBOL.csproj.CoreCompileInputs.cache
+C:\Users\carlo\Desktop\TRABAJO\TRABAJO_CRUDF\EstudiantesBOL\obj\Debug\EstudiantesBOL.dll
+C:\Users\carlo\Desktop\TRABAJO\TRABAJO_CRUDF\EstudiantesBOL\obj\Debug\EstudiantesBOL.pdb
+C:\Users\carlo\Desktop\FINAL DE TEMPORADA\CRUDSEMISEMIFINAL\CORRTAO\TRABAJO_CRUDF\EstudiantesBOL\bin\Debug\EstudiantesBOL.dll
+C:\Users\carlo\Desktop\FINAL DE TEMPORADA\CRUDSEMISEMIFINAL\CORRTAO\TRABAJO_CRUDF\EstudiantesBOL\bin\Debug\EstudiantesBOL.pdb
+C:\Users\carlo\Desktop\FINAL DE TEMPORADA\CRUDSEMISEMIFINAL\CORRTAO\TRABAJO_CRUDF\EstudiantesBOL\obj\Debug\EstudiantesBOL.csproj.AssemblyReference.cache
+C:\Users\carlo\Desktop\FINAL DE TEMPORADA\CRUDSEMISEMIFINAL\CORRTAO\TRABAJO_CRUDF\EstudiantesBOL\obj\Debug\EstudiantesBOL.csproj.CoreCompileInputs.cache
+C:\Users\carlo\Desktop\FINAL DE TEMPORADA\CRUDSEMISEMIFINAL\CORRTAO\TRABAJO_CRUDF\EstudiantesBOL\obj\Debug\EstudiantesBOL.dll
+C:\Users\carlo\Desktop\FINAL DE TEMPORADA\CRUDSEMISEMIFINAL\CORRTAO\TRABAJO_CRUDF\EstudiantesBOL\obj\Debug\EstudiantesBOL.pdb
+C:\Users\carlo\OneDrive\Escritorio\U\Software\CRUD-Asignaturas-Alumnos-main\CRUD-Asignaturas-Alumnos-main\TRABAJO_CRUDF\EstudiantesBOL\bin\Debug\EstudiantesBOL.dll
+C:\Users\carlo\OneDrive\Escritorio\U\Software\CRUD-Asignaturas-Alumnos-main\CRUD-Asignaturas-Alumnos-main\TRABAJO_CRUDF\EstudiantesBOL\bin\Debug\EstudiantesBOL.pdb
+C:\Users\carlo\OneDrive\Escritorio\U\Software\CRUD-Asignaturas-Alumnos-main\CRUD-Asignaturas-Alumnos-main\TRABAJO_CRUDF\EstudiantesBOL\obj\Debug\EstudiantesBOL.csproj.AssemblyReference.cache
+C:\Users\carlo\OneDrive\Escritorio\U\Software\CRUD-Asignaturas-Alumnos-main\CRUD-Asignaturas-Alumnos-main\TRABAJO_CRUDF\EstudiantesBOL\obj\Debug\EstudiantesBOL.csproj.CoreCompileInputs.cache
+C:\Users\carlo\OneDrive\Escritorio\U\Software\CRUD-Asignaturas-Alumnos-main\CRUD-Asignaturas-Alumnos-main\TRABAJO_CRUDF\EstudiantesBOL\obj\Debug\EstudiantesBOL.dll
+C:\Users\carlo\OneDrive\Escritorio\U\Software\CRUD-Asignaturas-Alumnos-main\CRUD-Asignaturas-Alumnos-main\TRABAJO_CRUDF\EstudiantesBOL\obj\Debug\EstudiantesBOL.pdb

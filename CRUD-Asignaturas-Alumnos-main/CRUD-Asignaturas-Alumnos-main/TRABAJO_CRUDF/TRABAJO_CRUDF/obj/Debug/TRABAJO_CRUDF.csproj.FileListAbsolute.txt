@@ -1,0 +1,186 @@
+C:\Users\carlo\Desktop\TRABAJO\TRABAJO_CRUDF\TRABAJO_CRUDF\bin\Debug\TRABAJO_CRUDF.exe.config
+C:\Users\carlo\Desktop\TRABAJO\TRABAJO_CRUDF\TRABAJO_CRUDF\bin\Debug\TRABAJO_CRUDF.exe
+C:\Users\carlo\Desktop\TRABAJO\TRABAJO_CRUDF\TRABAJO_CRUDF\bin\Debug\TRABAJO_CRUDF.pdb
+C:\Users\carlo\Desktop\TRABAJO\TRABAJO_CRUDF\TRABAJO_CRUDF\bin\Debug\EstudiantesBL.dll
+C:\Users\carlo\Desktop\TRABAJO\TRABAJO_CRUDF\TRABAJO_CRUDF\bin\Debug\EstudiantesBOL.dll
+C:\Users\carlo\Desktop\TRABAJO\TRABAJO_CRUDF\TRABAJO_CRUDF\bin\Debug\EstudiantesDAL.dll
+C:\Users\carlo\Desktop\TRABAJO\TRABAJO_CRUDF\TRABAJO_CRUDF\bin\Debug\EstudiantesBL.pdb
+C:\Users\carlo\Desktop\TRABAJO\TRABAJO_CRUDF\TRABAJO_CRUDF\bin\Debug\EstudiantesBOL.pdb
+C:\Users\carlo\Desktop\TRABAJO\TRABAJO_CRUDF\TRABAJO_CRUDF\bin\Debug\EstudiantesDAL.pdb
+C:\Users\carlo\Desktop\TRABAJO\TRABAJO_CRUDF\TRABAJO_CRUDF\obj\Debug\TRABAJO_CRUDF.csproj.AssemblyReference.cache
+C:\Users\carlo\Desktop\TRABAJO\TRABAJO_CRUDF\TRABAJO_CRUDF\obj\Debug\TRABAJO_CRUDF.Inicio.resources
+C:\Users\carlo\Desktop\TRABAJO\TRABAJO_CRUDF\TRABAJO_CRUDF\obj\Debug\TRABAJO_CRUDF.INSAlumnos.resources
+C:\Users\carlo\Desktop\TRABAJO\TRABAJO_CRUDF\TRABAJO_CRUDF\obj\Debug\TRABAJO_CRUDF.Properties.Resources.resources
+C:\Users\carlo\Desktop\TRABAJO\TRABAJO_CRUDF\TRABAJO_CRUDF\obj\Debug\TRABAJO_CRUDF.csproj.GenerateResource.cache
+C:\Users\carlo\Desktop\TRABAJO\TRABAJO_CRUDF\TRABAJO_CRUDF\obj\Debug\TRABAJO_CRUDF.csproj.CoreCompileInputs.cache
+C:\Users\carlo\Desktop\TRABAJO\TRABAJO_CRUDF\TRABAJO_CRUDF\obj\Debug\TRABAJO_.886E4AAC.Up2Date
+C:\Users\carlo\Desktop\TRABAJO\TRABAJO_CRUDF\TRABAJO_CRUDF\obj\Debug\TRABAJO_CRUDF.exe
+C:\Users\carlo\Desktop\TRABAJO\TRABAJO_CRUDF\TRABAJO_CRUDF\obj\Debug\TRABAJO_CRUDF.pdb
+C:\Users\Alumnos\Desktop\TRABAJO_CRUDF\TRABAJO_CRUDF\bin\Debug\TRABAJO_CRUDF.exe.config
+C:\Users\Alumnos\Desktop\TRABAJO_CRUDF\TRABAJO_CRUDF\bin\Debug\TRABAJO_CRUDF.exe
+C:\Users\Alumnos\Desktop\TRABAJO_CRUDF\TRABAJO_CRUDF\bin\Debug\TRABAJO_CRUDF.pdb
+C:\Users\Alumnos\Desktop\TRABAJO_CRUDF\TRABAJO_CRUDF\bin\Debug\EstudiantesBL.dll
+C:\Users\Alumnos\Desktop\TRABAJO_CRUDF\TRABAJO_CRUDF\bin\Debug\EstudiantesBOL.dll
+C:\Users\Alumnos\Desktop\TRABAJO_CRUDF\TRABAJO_CRUDF\bin\Debug\EstudiantesDAL.dll
+C:\Users\Alumnos\Desktop\TRABAJO_CRUDF\TRABAJO_CRUDF\bin\Debug\EstudiantesBL.pdb
+C:\Users\Alumnos\Desktop\TRABAJO_CRUDF\TRABAJO_CRUDF\bin\Debug\EstudiantesBOL.pdb
+C:\Users\Alumnos\Desktop\TRABAJO_CRUDF\TRABAJO_CRUDF\bin\Debug\EstudiantesDAL.pdb
+C:\Users\Alumnos\Desktop\TRABAJO_CRUDF\TRABAJO_CRUDF\obj\Debug\TRABAJO_CRUDF.csproj.AssemblyReference.cache
+C:\Users\Alumnos\Desktop\TRABAJO_CRUDF\TRABAJO_CRUDF\obj\Debug\TRABAJO_CRUDF.Inicio.resources
+C:\Users\Alumnos\Desktop\TRABAJO_CRUDF\TRABAJO_CRUDF\obj\Debug\TRABAJO_CRUDF.INSAlumnos.resources
+C:\Users\Alumnos\Desktop\TRABAJO_CRUDF\TRABAJO_CRUDF\obj\Debug\TRABAJO_CRUDF.Properties.Resources.resources
+C:\Users\Alumnos\Desktop\TRABAJO_CRUDF\TRABAJO_CRUDF\obj\Debug\TRABAJO_CRUDF.csproj.GenerateResource.cache
+C:\Users\Alumnos\Desktop\TRABAJO_CRUDF\TRABAJO_CRUDF\obj\Debug\TRABAJO_CRUDF.csproj.CoreCompileInputs.cache
+C:\Users\Alumnos\Desktop\TRABAJO_CRUDF\TRABAJO_CRUDF\obj\Debug\TRABAJO_CRUDF.csproj.CopyComplete
+C:\Users\Alumnos\Desktop\TRABAJO_CRUDF\TRABAJO_CRUDF\obj\Debug\TRABAJO_CRUDF.exe
+C:\Users\Alumnos\Desktop\TRABAJO_CRUDF\TRABAJO_CRUDF\obj\Debug\TRABAJO_CRUDF.pdb
+C:\Users\carlo\Desktop\basura\rodri\CORRTAO\TRABAJO_CRUDF\TRABAJO_CRUDF\bin\Debug\TRABAJO_CRUDF.exe.config
+C:\Users\carlo\Desktop\basura\rodri\CORRTAO\TRABAJO_CRUDF\TRABAJO_CRUDF\bin\Debug\TRABAJO_CRUDF.exe
+C:\Users\carlo\Desktop\basura\rodri\CORRTAO\TRABAJO_CRUDF\TRABAJO_CRUDF\bin\Debug\TRABAJO_CRUDF.pdb
+C:\Users\carlo\Desktop\basura\rodri\CORRTAO\TRABAJO_CRUDF\TRABAJO_CRUDF\bin\Debug\EstudiantesBL.dll
+C:\Users\carlo\Desktop\basura\rodri\CORRTAO\TRABAJO_CRUDF\TRABAJO_CRUDF\bin\Debug\EstudiantesBOL.dll
+C:\Users\carlo\Desktop\basura\rodri\CORRTAO\TRABAJO_CRUDF\TRABAJO_CRUDF\bin\Debug\EstudiantesDAL.dll
+C:\Users\carlo\Desktop\basura\rodri\CORRTAO\TRABAJO_CRUDF\TRABAJO_CRUDF\bin\Debug\EstudiantesBL.pdb
+C:\Users\carlo\Desktop\basura\rodri\CORRTAO\TRABAJO_CRUDF\TRABAJO_CRUDF\bin\Debug\EstudiantesBOL.pdb
+C:\Users\carlo\Desktop\basura\rodri\CORRTAO\TRABAJO_CRUDF\TRABAJO_CRUDF\bin\Debug\EstudiantesDAL.pdb
+C:\Users\carlo\Desktop\basura\rodri\CORRTAO\TRABAJO_CRUDF\TRABAJO_CRUDF\obj\Debug\TRABAJO_CRUDF.csproj.AssemblyReference.cache
+C:\Users\carlo\Desktop\basura\rodri\CORRTAO\TRABAJO_CRUDF\TRABAJO_CRUDF\obj\Debug\TRABAJO_CRUDF.Inicio.resources
+C:\Users\carlo\Desktop\basura\rodri\CORRTAO\TRABAJO_CRUDF\TRABAJO_CRUDF\obj\Debug\TRABAJO_CRUDF.INSAlumnos.resources
+C:\Users\carlo\Desktop\basura\rodri\CORRTAO\TRABAJO_CRUDF\TRABAJO_CRUDF\obj\Debug\TRABAJO_CRUDF.Properties.Resources.resources
+C:\Users\carlo\Desktop\basura\rodri\CORRTAO\TRABAJO_CRUDF\TRABAJO_CRUDF\obj\Debug\TRABAJO_CRUDF.csproj.GenerateResource.cache
+C:\Users\carlo\Desktop\basura\rodri\CORRTAO\TRABAJO_CRUDF\TRABAJO_CRUDF\obj\Debug\TRABAJO_CRUDF.csproj.CoreCompileInputs.cache
+C:\Users\carlo\Desktop\basura\rodri\CORRTAO\TRABAJO_CRUDF\TRABAJO_CRUDF\obj\Debug\TRABAJO_.886E4AAC.Up2Date
+C:\Users\carlo\Desktop\basura\rodri\CORRTAO\TRABAJO_CRUDF\TRABAJO_CRUDF\obj\Debug\TRABAJO_CRUDF.exe
+C:\Users\carlo\Desktop\basura\rodri\CORRTAO\TRABAJO_CRUDF\TRABAJO_CRUDF\obj\Debug\TRABAJO_CRUDF.pdb
+C:\Users\carlo\Desktop\basura\rodri\CORRTAO\TRABAJO_CRUDF\TRABAJO_CRUDF\bin\Debug\AsignaturaBL.dll
+C:\Users\carlo\Desktop\basura\rodri\CORRTAO\TRABAJO_CRUDF\TRABAJO_CRUDF\bin\Debug\AsignaturaBOL.dll
+C:\Users\carlo\Desktop\basura\rodri\CORRTAO\TRABAJO_CRUDF\TRABAJO_CRUDF\bin\Debug\AsignaturaDAL.dll
+C:\Users\carlo\Desktop\basura\rodri\CORRTAO\TRABAJO_CRUDF\TRABAJO_CRUDF\bin\Debug\AsignaturaBL.pdb
+C:\Users\carlo\Desktop\basura\rodri\CORRTAO\TRABAJO_CRUDF\TRABAJO_CRUDF\bin\Debug\AsignaturaBOL.pdb
+C:\Users\carlo\Desktop\basura\rodri\CORRTAO\TRABAJO_CRUDF\TRABAJO_CRUDF\bin\Debug\AsignaturaDAL.pdb
+C:\Users\carlo\Desktop\basura\rodri\CORRTAO\TRABAJO_CRUDF\TRABAJO_CRUDF\obj\Debug\TRABAJO_CRUDF.AsignaturaForm.resources
+C:\Users\Roderich\Desktop\CRUDSEMISEMIFINAL\CORRTAO\TRABAJO_CRUDF\TRABAJO_CRUDF\bin\Debug\TRABAJO_CRUDF.exe.config
+C:\Users\Roderich\Desktop\CRUDSEMISEMIFINAL\CORRTAO\TRABAJO_CRUDF\TRABAJO_CRUDF\bin\Debug\TRABAJO_CRUDF.exe
+C:\Users\Roderich\Desktop\CRUDSEMISEMIFINAL\CORRTAO\TRABAJO_CRUDF\TRABAJO_CRUDF\bin\Debug\TRABAJO_CRUDF.pdb
+C:\Users\Roderich\Desktop\CRUDSEMISEMIFINAL\CORRTAO\TRABAJO_CRUDF\TRABAJO_CRUDF\bin\Debug\AsignaturaBL.dll
+C:\Users\Roderich\Desktop\CRUDSEMISEMIFINAL\CORRTAO\TRABAJO_CRUDF\TRABAJO_CRUDF\bin\Debug\AsignaturaBOL.dll
+C:\Users\Roderich\Desktop\CRUDSEMISEMIFINAL\CORRTAO\TRABAJO_CRUDF\TRABAJO_CRUDF\bin\Debug\AsignaturaDAL.dll
+C:\Users\Roderich\Desktop\CRUDSEMISEMIFINAL\CORRTAO\TRABAJO_CRUDF\TRABAJO_CRUDF\bin\Debug\EstudiantesBL.dll
+C:\Users\Roderich\Desktop\CRUDSEMISEMIFINAL\CORRTAO\TRABAJO_CRUDF\TRABAJO_CRUDF\bin\Debug\EstudiantesBOL.dll
+C:\Users\Roderich\Desktop\CRUDSEMISEMIFINAL\CORRTAO\TRABAJO_CRUDF\TRABAJO_CRUDF\bin\Debug\EstudiantesDAL.dll
+C:\Users\Roderich\Desktop\CRUDSEMISEMIFINAL\CORRTAO\TRABAJO_CRUDF\TRABAJO_CRUDF\bin\Debug\AsignaturaBL.pdb
+C:\Users\Roderich\Desktop\CRUDSEMISEMIFINAL\CORRTAO\TRABAJO_CRUDF\TRABAJO_CRUDF\bin\Debug\AsignaturaBOL.pdb
+C:\Users\Roderich\Desktop\CRUDSEMISEMIFINAL\CORRTAO\TRABAJO_CRUDF\TRABAJO_CRUDF\bin\Debug\AsignaturaDAL.pdb
+C:\Users\Roderich\Desktop\CRUDSEMISEMIFINAL\CORRTAO\TRABAJO_CRUDF\TRABAJO_CRUDF\bin\Debug\EstudiantesBL.pdb
+C:\Users\Roderich\Desktop\CRUDSEMISEMIFINAL\CORRTAO\TRABAJO_CRUDF\TRABAJO_CRUDF\bin\Debug\EstudiantesBOL.pdb
+C:\Users\Roderich\Desktop\CRUDSEMISEMIFINAL\CORRTAO\TRABAJO_CRUDF\TRABAJO_CRUDF\bin\Debug\EstudiantesDAL.pdb
+C:\Users\Roderich\Desktop\CRUDSEMISEMIFINAL\CORRTAO\TRABAJO_CRUDF\TRABAJO_CRUDF\obj\Debug\TRABAJO_CRUDF.csproj.AssemblyReference.cache
+C:\Users\Roderich\Desktop\CRUDSEMISEMIFINAL\CORRTAO\TRABAJO_CRUDF\TRABAJO_CRUDF\obj\Debug\TRABAJO_CRUDF.AsignaturaForm.resources
+C:\Users\Roderich\Desktop\CRUDSEMISEMIFINAL\CORRTAO\TRABAJO_CRUDF\TRABAJO_CRUDF\obj\Debug\TRABAJO_CRUDF.Inicio.resources
+C:\Users\Roderich\Desktop\CRUDSEMISEMIFINAL\CORRTAO\TRABAJO_CRUDF\TRABAJO_CRUDF\obj\Debug\TRABAJO_CRUDF.INSAlumnos.resources
+C:\Users\Roderich\Desktop\CRUDSEMISEMIFINAL\CORRTAO\TRABAJO_CRUDF\TRABAJO_CRUDF\obj\Debug\TRABAJO_CRUDF.Properties.Resources.resources
+C:\Users\Roderich\Desktop\CRUDSEMISEMIFINAL\CORRTAO\TRABAJO_CRUDF\TRABAJO_CRUDF\obj\Debug\TRABAJO_CRUDF.csproj.GenerateResource.cache
+C:\Users\Roderich\Desktop\CRUDSEMISEMIFINAL\CORRTAO\TRABAJO_CRUDF\TRABAJO_CRUDF\obj\Debug\TRABAJO_CRUDF.csproj.CoreCompileInputs.cache
+C:\Users\Roderich\Desktop\CRUDSEMISEMIFINAL\CORRTAO\TRABAJO_CRUDF\TRABAJO_CRUDF\obj\Debug\TRABAJO_.886E4AAC.Up2Date
+C:\Users\Roderich\Desktop\CRUDSEMISEMIFINAL\CORRTAO\TRABAJO_CRUDF\TRABAJO_CRUDF\obj\Debug\TRABAJO_CRUDF.exe
+C:\Users\Roderich\Desktop\CRUDSEMISEMIFINAL\CORRTAO\TRABAJO_CRUDF\TRABAJO_CRUDF\obj\Debug\TRABAJO_CRUDF.pdb
+C:\Users\Alumnos\Desktop\CRUDSEMISEMIFINAL\CORRTAO\TRABAJO_CRUDF\TRABAJO_CRUDF\obj\Debug\TRABAJO_CRUDF.csproj.AssemblyReference.cache
+C:\Users\Alumnos\Desktop\CRUDSEMISEMIFINAL\CORRTAO\TRABAJO_CRUDF\TRABAJO_CRUDF\obj\Debug\TRABAJO_CRUDF.AsignaturaForm.resources
+C:\Users\Alumnos\Desktop\CRUDSEMISEMIFINAL\CORRTAO\TRABAJO_CRUDF\TRABAJO_CRUDF\obj\Debug\TRABAJO_CRUDF.Inicio.resources
+C:\Users\Alumnos\Desktop\CRUDSEMISEMIFINAL\CORRTAO\TRABAJO_CRUDF\TRABAJO_CRUDF\obj\Debug\TRABAJO_CRUDF.INSAlumnos.resources
+C:\Users\Alumnos\Desktop\CRUDSEMISEMIFINAL\CORRTAO\TRABAJO_CRUDF\TRABAJO_CRUDF\obj\Debug\TRABAJO_CRUDF.Properties.Resources.resources
+C:\Users\Alumnos\Desktop\CRUDSEMISEMIFINAL\CORRTAO\TRABAJO_CRUDF\TRABAJO_CRUDF\obj\Debug\TRABAJO_CRUDF.csproj.GenerateResource.cache
+C:\Users\Alumnos\Desktop\CRUDSEMISEMIFINAL\CORRTAO\TRABAJO_CRUDF\TRABAJO_CRUDF\obj\Debug\TRABAJO_CRUDF.csproj.CoreCompileInputs.cache
+C:\Users\Alumnos\Desktop\CRUDSEMISEMIFINAL\CORRTAO\TRABAJO_CRUDF\TRABAJO_CRUDF\obj\Debug\TRABAJO_CRUDF.exe
+C:\Users\Alumnos\Desktop\CRUDSEMISEMIFINAL\CORRTAO\TRABAJO_CRUDF\TRABAJO_CRUDF\obj\Debug\TRABAJO_CRUDF.pdb
+C:\Users\Alumnos\Desktop\CRUDSEMISEMIFINAL\CORRTAO\TRABAJO_CRUDF\TRABAJO_CRUDF\bin\Debug\TRABAJO_CRUDF.exe.config
+C:\Users\Alumnos\Desktop\CRUDSEMISEMIFINAL\CORRTAO\TRABAJO_CRUDF\TRABAJO_CRUDF\bin\Debug\TRABAJO_CRUDF.exe
+C:\Users\Alumnos\Desktop\CRUDSEMISEMIFINAL\CORRTAO\TRABAJO_CRUDF\TRABAJO_CRUDF\bin\Debug\TRABAJO_CRUDF.pdb
+C:\Users\Alumnos\Desktop\CRUDSEMISEMIFINAL\CORRTAO\TRABAJO_CRUDF\TRABAJO_CRUDF\bin\Debug\AsignaturaBL.dll
+C:\Users\Alumnos\Desktop\CRUDSEMISEMIFINAL\CORRTAO\TRABAJO_CRUDF\TRABAJO_CRUDF\bin\Debug\AsignaturaBOL.dll
+C:\Users\Alumnos\Desktop\CRUDSEMISEMIFINAL\CORRTAO\TRABAJO_CRUDF\TRABAJO_CRUDF\bin\Debug\AsignaturaDAL.dll
+C:\Users\Alumnos\Desktop\CRUDSEMISEMIFINAL\CORRTAO\TRABAJO_CRUDF\TRABAJO_CRUDF\bin\Debug\EstudiantesBL.dll
+C:\Users\Alumnos\Desktop\CRUDSEMISEMIFINAL\CORRTAO\TRABAJO_CRUDF\TRABAJO_CRUDF\bin\Debug\EstudiantesBOL.dll
+C:\Users\Alumnos\Desktop\CRUDSEMISEMIFINAL\CORRTAO\TRABAJO_CRUDF\TRABAJO_CRUDF\bin\Debug\EstudiantesDAL.dll
+C:\Users\Alumnos\Desktop\CRUDSEMISEMIFINAL\CORRTAO\TRABAJO_CRUDF\TRABAJO_CRUDF\bin\Debug\AsignaturaBL.pdb
+C:\Users\Alumnos\Desktop\CRUDSEMISEMIFINAL\CORRTAO\TRABAJO_CRUDF\TRABAJO_CRUDF\bin\Debug\AsignaturaBOL.pdb
+C:\Users\Alumnos\Desktop\CRUDSEMISEMIFINAL\CORRTAO\TRABAJO_CRUDF\TRABAJO_CRUDF\bin\Debug\AsignaturaDAL.pdb
+C:\Users\Alumnos\Desktop\CRUDSEMISEMIFINAL\CORRTAO\TRABAJO_CRUDF\TRABAJO_CRUDF\bin\Debug\EstudiantesBL.pdb
+C:\Users\Alumnos\Desktop\CRUDSEMISEMIFINAL\CORRTAO\TRABAJO_CRUDF\TRABAJO_CRUDF\bin\Debug\EstudiantesBOL.pdb
+C:\Users\Alumnos\Desktop\CRUDSEMISEMIFINAL\CORRTAO\TRABAJO_CRUDF\TRABAJO_CRUDF\bin\Debug\EstudiantesDAL.pdb
+C:\Users\Alumnos\Desktop\CRUDSEMISEMIFINAL\CORRTAO\TRABAJO_CRUDF\TRABAJO_CRUDF\obj\Debug\TRABAJO_CRUDF.csproj.CopyComplete
+C:\Users\carlo\Desktop\FINAL DE TEMPORADA\CRUDSEMISEMIFINAL\CORRTAO\TRABAJO_CRUDF\TRABAJO_CRUDF\bin\Debug\TRABAJO_CRUDF.exe.config
+C:\Users\carlo\Desktop\FINAL DE TEMPORADA\CRUDSEMISEMIFINAL\CORRTAO\TRABAJO_CRUDF\TRABAJO_CRUDF\bin\Debug\TRABAJO_CRUDF.exe
+C:\Users\carlo\Desktop\FINAL DE TEMPORADA\CRUDSEMISEMIFINAL\CORRTAO\TRABAJO_CRUDF\TRABAJO_CRUDF\bin\Debug\TRABAJO_CRUDF.pdb
+C:\Users\carlo\Desktop\FINAL DE TEMPORADA\CRUDSEMISEMIFINAL\CORRTAO\TRABAJO_CRUDF\TRABAJO_CRUDF\bin\Debug\AsignaturaBL.dll
+C:\Users\carlo\Desktop\FINAL DE TEMPORADA\CRUDSEMISEMIFINAL\CORRTAO\TRABAJO_CRUDF\TRABAJO_CRUDF\bin\Debug\AsignaturaBOL.dll
+C:\Users\carlo\Desktop\FINAL DE TEMPORADA\CRUDSEMISEMIFINAL\CORRTAO\TRABAJO_CRUDF\TRABAJO_CRUDF\bin\Debug\AsignaturaDAL.dll
+C:\Users\carlo\Desktop\FINAL DE TEMPORADA\CRUDSEMISEMIFINAL\CORRTAO\TRABAJO_CRUDF\TRABAJO_CRUDF\bin\Debug\EstudiantesBL.dll
+C:\Users\carlo\Desktop\FINAL DE TEMPORADA\CRUDSEMISEMIFINAL\CORRTAO\TRABAJO_CRUDF\TRABAJO_CRUDF\bin\Debug\EstudiantesBOL.dll
+C:\Users\carlo\Desktop\FINAL DE TEMPORADA\CRUDSEMISEMIFINAL\CORRTAO\TRABAJO_CRUDF\TRABAJO_CRUDF\bin\Debug\EstudiantesDAL.dll
+C:\Users\carlo\Desktop\FINAL DE TEMPORADA\CRUDSEMISEMIFINAL\CORRTAO\TRABAJO_CRUDF\TRABAJO_CRUDF\bin\Debug\AsignaturaBL.pdb
+C:\Users\carlo\Desktop\FINAL DE TEMPORADA\CRUDSEMISEMIFINAL\CORRTAO\TRABAJO_CRUDF\TRABAJO_CRUDF\bin\Debug\AsignaturaBOL.pdb
+C:\Users\carlo\Desktop\FINAL DE TEMPORADA\CRUDSEMISEMIFINAL\CORRTAO\TRABAJO_CRUDF\TRABAJO_CRUDF\bin\Debug\AsignaturaDAL.pdb
+C:\Users\carlo\Desktop\FINAL DE TEMPORADA\CRUDSEMISEMIFINAL\CORRTAO\TRABAJO_CRUDF\TRABAJO_CRUDF\bin\Debug\EstudiantesBL.pdb
+C:\Users\carlo\Desktop\FINAL DE TEMPORADA\CRUDSEMISEMIFINAL\CORRTAO\TRABAJO_CRUDF\TRABAJO_CRUDF\bin\Debug\EstudiantesBOL.pdb
+C:\Users\carlo\Desktop\FINAL DE TEMPORADA\CRUDSEMISEMIFINAL\CORRTAO\TRABAJO_CRUDF\TRABAJO_CRUDF\bin\Debug\EstudiantesDAL.pdb
+C:\Users\carlo\Desktop\FINAL DE TEMPORADA\CRUDSEMISEMIFINAL\CORRTAO\TRABAJO_CRUDF\TRABAJO_CRUDF\obj\Debug\TRABAJO_CRUDF.csproj.AssemblyReference.cache
+C:\Users\carlo\Desktop\FINAL DE TEMPORADA\CRUDSEMISEMIFINAL\CORRTAO\TRABAJO_CRUDF\TRABAJO_CRUDF\obj\Debug\TRABAJO_CRUDF.AsignaturaForm.resources
+C:\Users\carlo\Desktop\FINAL DE TEMPORADA\CRUDSEMISEMIFINAL\CORRTAO\TRABAJO_CRUDF\TRABAJO_CRUDF\obj\Debug\TRABAJO_CRUDF.Inicio.resources
+C:\Users\carlo\Desktop\FINAL DE TEMPORADA\CRUDSEMISEMIFINAL\CORRTAO\TRABAJO_CRUDF\TRABAJO_CRUDF\obj\Debug\TRABAJO_CRUDF.INSAlumnos.resources
+C:\Users\carlo\Desktop\FINAL DE TEMPORADA\CRUDSEMISEMIFINAL\CORRTAO\TRABAJO_CRUDF\TRABAJO_CRUDF\obj\Debug\TRABAJO_CRUDF.Properties.Resources.resources
+C:\Users\carlo\Desktop\FINAL DE TEMPORADA\CRUDSEMISEMIFINAL\CORRTAO\TRABAJO_CRUDF\TRABAJO_CRUDF\obj\Debug\TRABAJO_CRUDF.csproj.GenerateResource.cache
+C:\Users\carlo\Desktop\FINAL DE TEMPORADA\CRUDSEMISEMIFINAL\CORRTAO\TRABAJO_CRUDF\TRABAJO_CRUDF\obj\Debug\TRABAJO_CRUDF.csproj.CoreCompileInputs.cache
+C:\Users\carlo\Desktop\FINAL DE TEMPORADA\CRUDSEMISEMIFINAL\CORRTAO\TRABAJO_CRUDF\TRABAJO_CRUDF\obj\Debug\TRABAJO_.886E4AAC.Up2Date
+C:\Users\carlo\Desktop\FINAL DE TEMPORADA\CRUDSEMISEMIFINAL\CORRTAO\TRABAJO_CRUDF\TRABAJO_CRUDF\obj\Debug\TRABAJO_CRUDF.exe
+C:\Users\carlo\Desktop\FINAL DE TEMPORADA\CRUDSEMISEMIFINAL\CORRTAO\TRABAJO_CRUDF\TRABAJO_CRUDF\obj\Debug\TRABAJO_CRUDF.pdb
+C:\Users\carlo\OneDrive\Escritorio\U\Software\CRUD-Asignaturas-Alumnos-main\CRUD-Asignaturas-Alumnos-main\TRABAJO_CRUDF\TRABAJO_CRUDF\obj\Debug\TRABAJO_CRUDF.csproj.AssemblyReference.cache
+C:\Users\carlo\OneDrive\Escritorio\U\Software\CRUD-Asignaturas-Alumnos-main\CRUD-Asignaturas-Alumnos-main\TRABAJO_CRUDF\TRABAJO_CRUDF\obj\Debug\TRABAJO_CRUDF.exe
+C:\Users\carlo\OneDrive\Escritorio\U\Software\CRUD-Asignaturas-Alumnos-main\CRUD-Asignaturas-Alumnos-main\TRABAJO_CRUDF\TRABAJO_CRUDF\obj\Debug\TRABAJO_CRUDF.pdb
+C:\Users\carlo\OneDrive\Escritorio\U\Software\CRUD-Asignaturas-Alumnos-main\CRUD-Asignaturas-Alumnos-main\TRABAJO_CRUDF\TRABAJO_CRUDF\bin\Debug\TRABAJO_CRUDF.exe.config
+C:\Users\carlo\OneDrive\Escritorio\U\Software\CRUD-Asignaturas-Alumnos-main\CRUD-Asignaturas-Alumnos-main\TRABAJO_CRUDF\TRABAJO_CRUDF\bin\Debug\TRABAJO_CRUDF.exe
+C:\Users\carlo\OneDrive\Escritorio\U\Software\CRUD-Asignaturas-Alumnos-main\CRUD-Asignaturas-Alumnos-main\TRABAJO_CRUDF\TRABAJO_CRUDF\bin\Debug\TRABAJO_CRUDF.pdb
+C:\Users\carlo\OneDrive\Escritorio\U\Software\CRUD-Asignaturas-Alumnos-main\CRUD-Asignaturas-Alumnos-main\TRABAJO_CRUDF\TRABAJO_CRUDF\bin\Debug\AsignaturaBL.dll
+C:\Users\carlo\OneDrive\Escritorio\U\Software\CRUD-Asignaturas-Alumnos-main\CRUD-Asignaturas-Alumnos-main\TRABAJO_CRUDF\TRABAJO_CRUDF\bin\Debug\AsignaturaBOL.dll
+C:\Users\carlo\OneDrive\Escritorio\U\Software\CRUD-Asignaturas-Alumnos-main\CRUD-Asignaturas-Alumnos-main\TRABAJO_CRUDF\TRABAJO_CRUDF\bin\Debug\AsignaturaDAL.dll
+C:\Users\carlo\OneDrive\Escritorio\U\Software\CRUD-Asignaturas-Alumnos-main\CRUD-Asignaturas-Alumnos-main\TRABAJO_CRUDF\TRABAJO_CRUDF\bin\Debug\EstudiantesBL.dll
+C:\Users\carlo\OneDrive\Escritorio\U\Software\CRUD-Asignaturas-Alumnos-main\CRUD-Asignaturas-Alumnos-main\TRABAJO_CRUDF\TRABAJO_CRUDF\bin\Debug\EstudiantesBOL.dll
+C:\Users\carlo\OneDrive\Escritorio\U\Software\CRUD-Asignaturas-Alumnos-main\CRUD-Asignaturas-Alumnos-main\TRABAJO_CRUDF\TRABAJO_CRUDF\bin\Debug\EstudiantesDAL.dll
+C:\Users\carlo\OneDrive\Escritorio\U\Software\CRUD-Asignaturas-Alumnos-main\CRUD-Asignaturas-Alumnos-main\TRABAJO_CRUDF\TRABAJO_CRUDF\bin\Debug\AsignaturaBL.pdb
+C:\Users\carlo\OneDrive\Escritorio\U\Software\CRUD-Asignaturas-Alumnos-main\CRUD-Asignaturas-Alumnos-main\TRABAJO_CRUDF\TRABAJO_CRUDF\bin\Debug\AsignaturaBOL.pdb
+C:\Users\carlo\OneDrive\Escritorio\U\Software\CRUD-Asignaturas-Alumnos-main\CRUD-Asignaturas-Alumnos-main\TRABAJO_CRUDF\TRABAJO_CRUDF\bin\Debug\AsignaturaDAL.pdb
+C:\Users\carlo\OneDrive\Escritorio\U\Software\CRUD-Asignaturas-Alumnos-main\CRUD-Asignaturas-Alumnos-main\TRABAJO_CRUDF\TRABAJO_CRUDF\bin\Debug\EstudiantesBL.pdb
+C:\Users\carlo\OneDrive\Escritorio\U\Software\CRUD-Asignaturas-Alumnos-main\CRUD-Asignaturas-Alumnos-main\TRABAJO_CRUDF\TRABAJO_CRUDF\bin\Debug\EstudiantesBOL.pdb
+C:\Users\carlo\OneDrive\Escritorio\U\Software\CRUD-Asignaturas-Alumnos-main\CRUD-Asignaturas-Alumnos-main\TRABAJO_CRUDF\TRABAJO_CRUDF\bin\Debug\EstudiantesDAL.pdb
+C:\Users\carlo\OneDrive\Escritorio\U\Software\CRUD-Asignaturas-Alumnos-main\CRUD-Asignaturas-Alumnos-main\TRABAJO_CRUDF\TRABAJO_CRUDF\obj\Debug\TRABAJO_CRUDF.AsignaturaForm.resources
+C:\Users\carlo\OneDrive\Escritorio\U\Software\CRUD-Asignaturas-Alumnos-main\CRUD-Asignaturas-Alumnos-main\TRABAJO_CRUDF\TRABAJO_CRUDF\obj\Debug\TRABAJO_CRUDF.Inicio.resources
+C:\Users\carlo\OneDrive\Escritorio\U\Software\CRUD-Asignaturas-Alumnos-main\CRUD-Asignaturas-Alumnos-main\TRABAJO_CRUDF\TRABAJO_CRUDF\obj\Debug\TRABAJO_CRUDF.INSAlumnos.resources
+C:\Users\carlo\OneDrive\Escritorio\U\Software\CRUD-Asignaturas-Alumnos-main\CRUD-Asignaturas-Alumnos-main\TRABAJO_CRUDF\TRABAJO_CRUDF\obj\Debug\TRABAJO_CRUDF.Properties.Resources.resources
+C:\Users\carlo\OneDrive\Escritorio\U\Software\CRUD-Asignaturas-Alumnos-main\CRUD-Asignaturas-Alumnos-main\TRABAJO_CRUDF\TRABAJO_CRUDF\obj\Debug\TRABAJO_CRUDF.csproj.GenerateResource.cache
+C:\Users\carlo\OneDrive\Escritorio\U\Software\CRUD-Asignaturas-Alumnos-main\CRUD-Asignaturas-Alumnos-main\TRABAJO_CRUDF\TRABAJO_CRUDF\obj\Debug\TRABAJO_CRUDF.csproj.CoreCompileInputs.cache
+C:\Users\carlo\OneDrive\Escritorio\U\Software\CRUD-Asignaturas-Alumnos-main\CRUD-Asignaturas-Alumnos-main\TRABAJO_CRUDF\TRABAJO_CRUDF\obj\Debug\TRABAJO_.886E4AAC.Up2Date
+C:\Users\Alumnos\Desktop\TRABAJO3\CRUD-Asignaturas-Alumnos-main\CRUD-Asignaturas-Alumnos-main\TRABAJO_CRUDF\TRABAJO_CRUDF\obj\Debug\TRABAJO_CRUDF.csproj.AssemblyReference.cache
+C:\Users\Alumnos\Desktop\TRABAJO3\CRUD-Asignaturas-Alumnos-main\CRUD-Asignaturas-Alumnos-main\TRABAJO_CRUDF\TRABAJO_CRUDF\obj\Debug\TRABAJO_CRUDF.AsignaturaForm.resources
+C:\Users\Alumnos\Desktop\TRABAJO3\CRUD-Asignaturas-Alumnos-main\CRUD-Asignaturas-Alumnos-main\TRABAJO_CRUDF\TRABAJO_CRUDF\obj\Debug\TRABAJO_CRUDF.Inicio.resources
+C:\Users\Alumnos\Desktop\TRABAJO3\CRUD-Asignaturas-Alumnos-main\CRUD-Asignaturas-Alumnos-main\TRABAJO_CRUDF\TRABAJO_CRUDF\obj\Debug\TRABAJO_CRUDF.INSAlumnos.resources
+C:\Users\Alumnos\Desktop\TRABAJO3\CRUD-Asignaturas-Alumnos-main\CRUD-Asignaturas-Alumnos-main\TRABAJO_CRUDF\TRABAJO_CRUDF\obj\Debug\TRABAJO_CRUDF.Properties.Resources.resources
+C:\Users\Alumnos\Desktop\TRABAJO3\CRUD-Asignaturas-Alumnos-main\CRUD-Asignaturas-Alumnos-main\TRABAJO_CRUDF\TRABAJO_CRUDF\obj\Debug\TRABAJO_CRUDF.csproj.GenerateResource.cache
+C:\Users\Alumnos\Desktop\TRABAJO3\CRUD-Asignaturas-Alumnos-main\CRUD-Asignaturas-Alumnos-main\TRABAJO_CRUDF\TRABAJO_CRUDF\obj\Debug\TRABAJO_CRUDF.csproj.CoreCompileInputs.cache
+C:\Users\Alumnos\Desktop\TRABAJO3\CRUD-Asignaturas-Alumnos-main\CRUD-Asignaturas-Alumnos-main\TRABAJO_CRUDF\TRABAJO_CRUDF\obj\Debug\TRABAJO_CRUDF.exe
+C:\Users\Alumnos\Desktop\TRABAJO3\CRUD-Asignaturas-Alumnos-main\CRUD-Asignaturas-Alumnos-main\TRABAJO_CRUDF\TRABAJO_CRUDF\obj\Debug\TRABAJO_CRUDF.pdb
+C:\Users\Alumnos\Desktop\TRABAJO3\CRUD-Asignaturas-Alumnos-main\CRUD-Asignaturas-Alumnos-main\TRABAJO_CRUDF\TRABAJO_CRUDF\bin\Debug\TRABAJO_CRUDF.exe.config
+C:\Users\Alumnos\Desktop\TRABAJO3\CRUD-Asignaturas-Alumnos-main\CRUD-Asignaturas-Alumnos-main\TRABAJO_CRUDF\TRABAJO_CRUDF\bin\Debug\TRABAJO_CRUDF.exe
+C:\Users\Alumnos\Desktop\TRABAJO3\CRUD-Asignaturas-Alumnos-main\CRUD-Asignaturas-Alumnos-main\TRABAJO_CRUDF\TRABAJO_CRUDF\bin\Debug\TRABAJO_CRUDF.pdb
+C:\Users\Alumnos\Desktop\TRABAJO3\CRUD-Asignaturas-Alumnos-main\CRUD-Asignaturas-Alumnos-main\TRABAJO_CRUDF\TRABAJO_CRUDF\bin\Debug\AsignaturaBL.dll
+C:\Users\Alumnos\Desktop\TRABAJO3\CRUD-Asignaturas-Alumnos-main\CRUD-Asignaturas-Alumnos-main\TRABAJO_CRUDF\TRABAJO_CRUDF\bin\Debug\AsignaturaBOL.dll
+C:\Users\Alumnos\Desktop\TRABAJO3\CRUD-Asignaturas-Alumnos-main\CRUD-Asignaturas-Alumnos-main\TRABAJO_CRUDF\TRABAJO_CRUDF\bin\Debug\AsignaturaDAL.dll
+C:\Users\Alumnos\Desktop\TRABAJO3\CRUD-Asignaturas-Alumnos-main\CRUD-Asignaturas-Alumnos-main\TRABAJO_CRUDF\TRABAJO_CRUDF\bin\Debug\EstudiantesBL.dll
+C:\Users\Alumnos\Desktop\TRABAJO3\CRUD-Asignaturas-Alumnos-main\CRUD-Asignaturas-Alumnos-main\TRABAJO_CRUDF\TRABAJO_CRUDF\bin\Debug\EstudiantesBOL.dll
+C:\Users\Alumnos\Desktop\TRABAJO3\CRUD-Asignaturas-Alumnos-main\CRUD-Asignaturas-Alumnos-main\TRABAJO_CRUDF\TRABAJO_CRUDF\bin\Debug\EstudiantesDAL.dll
+C:\Users\Alumnos\Desktop\TRABAJO3\CRUD-Asignaturas-Alumnos-main\CRUD-Asignaturas-Alumnos-main\TRABAJO_CRUDF\TRABAJO_CRUDF\bin\Debug\AsignaturaBL.pdb
+C:\Users\Alumnos\Desktop\TRABAJO3\CRUD-Asignaturas-Alumnos-main\CRUD-Asignaturas-Alumnos-main\TRABAJO_CRUDF\TRABAJO_CRUDF\bin\Debug\AsignaturaBOL.pdb
+C:\Users\Alumnos\Desktop\TRABAJO3\CRUD-Asignaturas-Alumnos-main\CRUD-Asignaturas-Alumnos-main\TRABAJO_CRUDF\TRABAJO_CRUDF\bin\Debug\AsignaturaDAL.pdb
+C:\Users\Alumnos\Desktop\TRABAJO3\CRUD-Asignaturas-Alumnos-main\CRUD-Asignaturas-Alumnos-main\TRABAJO_CRUDF\TRABAJO_CRUDF\bin\Debug\EstudiantesBL.pdb
+C:\Users\Alumnos\Desktop\TRABAJO3\CRUD-Asignaturas-Alumnos-main\CRUD-Asignaturas-Alumnos-main\TRABAJO_CRUDF\TRABAJO_CRUDF\bin\Debug\EstudiantesBOL.pdb
+C:\Users\Alumnos\Desktop\TRABAJO3\CRUD-Asignaturas-Alumnos-main\CRUD-Asignaturas-Alumnos-main\TRABAJO_CRUDF\TRABAJO_CRUDF\bin\Debug\EstudiantesDAL.pdb
+C:\Users\Alumnos\Desktop\TRABAJO3\CRUD-Asignaturas-Alumnos-main\CRUD-Asignaturas-Alumnos-main\TRABAJO_CRUDF\TRABAJO_CRUDF\obj\Debug\TRABAJO_CRUDF.csproj.CopyComplete

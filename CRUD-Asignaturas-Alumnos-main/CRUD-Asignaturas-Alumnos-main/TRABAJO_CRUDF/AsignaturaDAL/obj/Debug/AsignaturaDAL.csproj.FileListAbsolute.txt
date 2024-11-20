@@ -1,0 +1,45 @@
+C:\Users\carlo\Desktop\basura\rodri\CORRTAO\TRABAJO_CRUDF\AsignaturaDAL\bin\Debug\AsignaturaDAL.dll
+C:\Users\carlo\Desktop\basura\rodri\CORRTAO\TRABAJO_CRUDF\AsignaturaDAL\bin\Debug\AsignaturaDAL.pdb
+C:\Users\carlo\Desktop\basura\rodri\CORRTAO\TRABAJO_CRUDF\AsignaturaDAL\bin\Debug\AsignaturaBOL.dll
+C:\Users\carlo\Desktop\basura\rodri\CORRTAO\TRABAJO_CRUDF\AsignaturaDAL\bin\Debug\AsignaturaBOL.pdb
+C:\Users\carlo\Desktop\basura\rodri\CORRTAO\TRABAJO_CRUDF\AsignaturaDAL\obj\Debug\AsignaturaDAL.csproj.AssemblyReference.cache
+C:\Users\carlo\Desktop\basura\rodri\CORRTAO\TRABAJO_CRUDF\AsignaturaDAL\obj\Debug\AsignaturaDAL.csproj.CoreCompileInputs.cache
+C:\Users\carlo\Desktop\basura\rodri\CORRTAO\TRABAJO_CRUDF\AsignaturaDAL\obj\Debug\Asignatu.4834E572.Up2Date
+C:\Users\carlo\Desktop\basura\rodri\CORRTAO\TRABAJO_CRUDF\AsignaturaDAL\obj\Debug\AsignaturaDAL.dll
+C:\Users\carlo\Desktop\basura\rodri\CORRTAO\TRABAJO_CRUDF\AsignaturaDAL\obj\Debug\AsignaturaDAL.pdb
+C:\Users\Alumnos\Desktop\CRUDSEMISEMIFINAL\CORRTAO\TRABAJO_CRUDF\AsignaturaDAL\bin\Debug\AsignaturaDAL.dll
+C:\Users\Alumnos\Desktop\CRUDSEMISEMIFINAL\CORRTAO\TRABAJO_CRUDF\AsignaturaDAL\bin\Debug\AsignaturaDAL.pdb
+C:\Users\Alumnos\Desktop\CRUDSEMISEMIFINAL\CORRTAO\TRABAJO_CRUDF\AsignaturaDAL\bin\Debug\AsignaturaBOL.dll
+C:\Users\Alumnos\Desktop\CRUDSEMISEMIFINAL\CORRTAO\TRABAJO_CRUDF\AsignaturaDAL\bin\Debug\AsignaturaBOL.pdb
+C:\Users\Alumnos\Desktop\CRUDSEMISEMIFINAL\CORRTAO\TRABAJO_CRUDF\AsignaturaDAL\obj\Debug\AsignaturaDAL.csproj.AssemblyReference.cache
+C:\Users\Alumnos\Desktop\CRUDSEMISEMIFINAL\CORRTAO\TRABAJO_CRUDF\AsignaturaDAL\obj\Debug\AsignaturaDAL.csproj.CoreCompileInputs.cache
+C:\Users\Alumnos\Desktop\CRUDSEMISEMIFINAL\CORRTAO\TRABAJO_CRUDF\AsignaturaDAL\obj\Debug\AsignaturaDAL.csproj.CopyComplete
+C:\Users\Alumnos\Desktop\CRUDSEMISEMIFINAL\CORRTAO\TRABAJO_CRUDF\AsignaturaDAL\obj\Debug\AsignaturaDAL.dll
+C:\Users\Alumnos\Desktop\CRUDSEMISEMIFINAL\CORRTAO\TRABAJO_CRUDF\AsignaturaDAL\obj\Debug\AsignaturaDAL.pdb
+C:\Users\carlo\Desktop\FINAL DE TEMPORADA\CRUDSEMISEMIFINAL\CORRTAO\TRABAJO_CRUDF\AsignaturaDAL\bin\Debug\AsignaturaDAL.dll
+C:\Users\carlo\Desktop\FINAL DE TEMPORADA\CRUDSEMISEMIFINAL\CORRTAO\TRABAJO_CRUDF\AsignaturaDAL\bin\Debug\AsignaturaDAL.pdb
+C:\Users\carlo\Desktop\FINAL DE TEMPORADA\CRUDSEMISEMIFINAL\CORRTAO\TRABAJO_CRUDF\AsignaturaDAL\bin\Debug\AsignaturaBOL.dll
+C:\Users\carlo\Desktop\FINAL DE TEMPORADA\CRUDSEMISEMIFINAL\CORRTAO\TRABAJO_CRUDF\AsignaturaDAL\bin\Debug\AsignaturaBOL.pdb
+C:\Users\carlo\Desktop\FINAL DE TEMPORADA\CRUDSEMISEMIFINAL\CORRTAO\TRABAJO_CRUDF\AsignaturaDAL\obj\Debug\AsignaturaDAL.csproj.AssemblyReference.cache
+C:\Users\carlo\Desktop\FINAL DE TEMPORADA\CRUDSEMISEMIFINAL\CORRTAO\TRABAJO_CRUDF\AsignaturaDAL\obj\Debug\AsignaturaDAL.csproj.CoreCompileInputs.cache
+C:\Users\carlo\Desktop\FINAL DE TEMPORADA\CRUDSEMISEMIFINAL\CORRTAO\TRABAJO_CRUDF\AsignaturaDAL\obj\Debug\Asignatu.4834E572.Up2Date
+C:\Users\carlo\Desktop\FINAL DE TEMPORADA\CRUDSEMISEMIFINAL\CORRTAO\TRABAJO_CRUDF\AsignaturaDAL\obj\Debug\AsignaturaDAL.dll
+C:\Users\carlo\Desktop\FINAL DE TEMPORADA\CRUDSEMISEMIFINAL\CORRTAO\TRABAJO_CRUDF\AsignaturaDAL\obj\Debug\AsignaturaDAL.pdb
+C:\Users\carlo\OneDrive\Escritorio\U\Software\CRUD-Asignaturas-Alumnos-main\CRUD-Asignaturas-Alumnos-main\TRABAJO_CRUDF\AsignaturaDAL\bin\Debug\AsignaturaDAL.dll
+C:\Users\carlo\OneDrive\Escritorio\U\Software\CRUD-Asignaturas-Alumnos-main\CRUD-Asignaturas-Alumnos-main\TRABAJO_CRUDF\AsignaturaDAL\bin\Debug\AsignaturaDAL.pdb
+C:\Users\carlo\OneDrive\Escritorio\U\Software\CRUD-Asignaturas-Alumnos-main\CRUD-Asignaturas-Alumnos-main\TRABAJO_CRUDF\AsignaturaDAL\bin\Debug\AsignaturaBOL.dll
+C:\Users\carlo\OneDrive\Escritorio\U\Software\CRUD-Asignaturas-Alumnos-main\CRUD-Asignaturas-Alumnos-main\TRABAJO_CRUDF\AsignaturaDAL\bin\Debug\AsignaturaBOL.pdb
+C:\Users\carlo\OneDrive\Escritorio\U\Software\CRUD-Asignaturas-Alumnos-main\CRUD-Asignaturas-Alumnos-main\TRABAJO_CRUDF\AsignaturaDAL\obj\Debug\AsignaturaDAL.csproj.AssemblyReference.cache
+C:\Users\carlo\OneDrive\Escritorio\U\Software\CRUD-Asignaturas-Alumnos-main\CRUD-Asignaturas-Alumnos-main\TRABAJO_CRUDF\AsignaturaDAL\obj\Debug\AsignaturaDAL.csproj.CoreCompileInputs.cache
+C:\Users\carlo\OneDrive\Escritorio\U\Software\CRUD-Asignaturas-Alumnos-main\CRUD-Asignaturas-Alumnos-main\TRABAJO_CRUDF\AsignaturaDAL\obj\Debug\Asignatu.4834E572.Up2Date
+C:\Users\carlo\OneDrive\Escritorio\U\Software\CRUD-Asignaturas-Alumnos-main\CRUD-Asignaturas-Alumnos-main\TRABAJO_CRUDF\AsignaturaDAL\obj\Debug\AsignaturaDAL.dll
+C:\Users\carlo\OneDrive\Escritorio\U\Software\CRUD-Asignaturas-Alumnos-main\CRUD-Asignaturas-Alumnos-main\TRABAJO_CRUDF\AsignaturaDAL\obj\Debug\AsignaturaDAL.pdb
+C:\Users\Alumnos\Desktop\TRABAJO3\CRUD-Asignaturas-Alumnos-main\CRUD-Asignaturas-Alumnos-main\TRABAJO_CRUDF\AsignaturaDAL\bin\Debug\AsignaturaDAL.dll
+C:\Users\Alumnos\Desktop\TRABAJO3\CRUD-Asignaturas-Alumnos-main\CRUD-Asignaturas-Alumnos-main\TRABAJO_CRUDF\AsignaturaDAL\bin\Debug\AsignaturaDAL.pdb
+C:\Users\Alumnos\Desktop\TRABAJO3\CRUD-Asignaturas-Alumnos-main\CRUD-Asignaturas-Alumnos-main\TRABAJO_CRUDF\AsignaturaDAL\bin\Debug\AsignaturaBOL.dll
+C:\Users\Alumnos\Desktop\TRABAJO3\CRUD-Asignaturas-Alumnos-main\CRUD-Asignaturas-Alumnos-main\TRABAJO_CRUDF\AsignaturaDAL\bin\Debug\AsignaturaBOL.pdb
+C:\Users\Alumnos\Desktop\TRABAJO3\CRUD-Asignaturas-Alumnos-main\CRUD-Asignaturas-Alumnos-main\TRABAJO_CRUDF\AsignaturaDAL\obj\Debug\AsignaturaDAL.csproj.AssemblyReference.cache
+C:\Users\Alumnos\Desktop\TRABAJO3\CRUD-Asignaturas-Alumnos-main\CRUD-Asignaturas-Alumnos-main\TRABAJO_CRUDF\AsignaturaDAL\obj\Debug\AsignaturaDAL.csproj.CoreCompileInputs.cache
+C:\Users\Alumnos\Desktop\TRABAJO3\CRUD-Asignaturas-Alumnos-main\CRUD-Asignaturas-Alumnos-main\TRABAJO_CRUDF\AsignaturaDAL\obj\Debug\AsignaturaDAL.csproj.CopyComplete
+C:\Users\Alumnos\Desktop\TRABAJO3\CRUD-Asignaturas-Alumnos-main\CRUD-Asignaturas-Alumnos-main\TRABAJO_CRUDF\AsignaturaDAL\obj\Debug\AsignaturaDAL.dll
+C:\Users\Alumnos\Desktop\TRABAJO3\CRUD-Asignaturas-Alumnos-main\CRUD-Asignaturas-Alumnos-main\TRABAJO_CRUDF\AsignaturaDAL\obj\Debug\AsignaturaDAL.pdb

@@ -1,0 +1,12 @@
+C:\Users\carlo\Desktop\basura\rodri\CORRTAO\TRABAJO_CRUDF\AsignaturaBOL\bin\Debug\AsignaturaBOL.dll
+C:\Users\carlo\Desktop\basura\rodri\CORRTAO\TRABAJO_CRUDF\AsignaturaBOL\bin\Debug\AsignaturaBOL.pdb
+C:\Users\carlo\Desktop\basura\rodri\CORRTAO\TRABAJO_CRUDF\AsignaturaBOL\obj\Debug\AsignaturaBOL.csproj.AssemblyReference.cache
+C:\Users\carlo\Desktop\basura\rodri\CORRTAO\TRABAJO_CRUDF\AsignaturaBOL\obj\Debug\AsignaturaBOL.csproj.CoreCompileInputs.cache
+C:\Users\carlo\Desktop\basura\rodri\CORRTAO\TRABAJO_CRUDF\AsignaturaBOL\obj\Debug\AsignaturaBOL.dll
+C:\Users\carlo\Desktop\basura\rodri\CORRTAO\TRABAJO_CRUDF\AsignaturaBOL\obj\Debug\AsignaturaBOL.pdb
+C:\Users\carlo\OneDrive\Escritorio\U\Software\CRUD-Asignaturas-Alumnos-main\CRUD-Asignaturas-Alumnos-main\TRABAJO_CRUDF\AsignaturaBOL\bin\Debug\AsignaturaBOL.dll
+C:\Users\carlo\OneDrive\Escritorio\U\Software\CRUD-Asignaturas-Alumnos-main\CRUD-Asignaturas-Alumnos-main\TRABAJO_CRUDF\AsignaturaBOL\bin\Debug\AsignaturaBOL.pdb
+C:\Users\carlo\OneDrive\Escritorio\U\Software\CRUD-Asignaturas-Alumnos-main\CRUD-Asignaturas-Alumnos-main\TRABAJO_CRUDF\AsignaturaBOL\obj\Debug\AsignaturaBOL.csproj.AssemblyReference.cache
+C:\Users\carlo\OneDrive\Escritorio\U\Software\CRUD-Asignaturas-Alumnos-main\CRUD-Asignaturas-Alumnos-main\TRABAJO_CRUDF\AsignaturaBOL\obj\Debug\AsignaturaBOL.csproj.CoreCompileInputs.cache
+C:\Users\carlo\OneDrive\Escritorio\U\Software\CRUD-Asignaturas-Alumnos-main\CRUD-Asignaturas-Alumnos-main\TRABAJO_CRUDF\AsignaturaBOL\obj\Debug\AsignaturaBOL.dll
+C:\Users\carlo\OneDrive\Escritorio\U\Software\CRUD-Asignaturas-Alumnos-main\CRUD-Asignaturas-Alumnos-main\TRABAJO_CRUDF\AsignaturaBOL\obj\Debug\AsignaturaBOL.pdb
